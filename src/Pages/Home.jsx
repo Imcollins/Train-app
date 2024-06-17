@@ -7,10 +7,10 @@ const Home = () => {
       <section className="jumbotron bg-cover h-screen bg-no-repeat bg-[url('./images/1.jpg')] bg-gray-700 bg-blend-multiply">
         <div className="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
           <h1 className="mb-4 cardo text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
-            Welcome to <span className="text-yellow-500">RouteRover</span>
+            Welcome to <span className="text-yellow-500">Train App</span>
           </h1>
           <p className="mb-8  text-lg work font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
-            <span className="text-yellow-500">RouteRover</span> is your one-stop
+            <span className="text-yellow-500">Train App</span> is your one-stop
             destination for seamless railway travel. Our advanced system is
             designed to simplify the way you book, track, and manage your train
             journeys. Whether you're a passenger looking to book tickets or an
