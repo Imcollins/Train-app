@@ -1,33 +1,34 @@
-(Train-App)
-Date, 2024/06/17
-By collins Kipngeno
+#(Train-App)
+#Date, 2024/06/17
+#By collins Kipngeno
 
-Short live link videos
+##Short live link videos
 https://youtu.be/VUIyLXE5AmA?si=E1yqL4t_Vy8Ljmw5
 
 
-Live Link
+##Live Link
 https://github.com/Imcollins/Train-app.git
-Description
+
+#Description
 It's a webpage that shows Online Train Booking (Train App)activities.
 
-Installation
+##Installation
 You use git clone to be able to download the documents in the GitHub
 
 Installation Requirements
 Git
 
-Installation instruction
+#Installation instruction
 Git clone https://github.com/Imcollins/Train-app.git
 
-Technologies used
+#Technologies used
 React + Vite
 Tailwind css
 Python
 MySQL
 
 
-Support and contact details
+#Support and contact details
 git@github.com:https://github.com/Imcollins/Train-app.git
 
 License
