@@ -1,6 +1,6 @@
-#(Train-App)
-//Date, 2024/06/17
-//By collins Kipngeno
+(Train-App)
+Date, 2024/06/17
+By collins Kipngeno
 
 ##Short live link videos
 https://youtu.be/VUIyLXE5AmA?si=E1yqL4t_Vy8Ljmw5
